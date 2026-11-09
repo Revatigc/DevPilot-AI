@@ -1,0 +1,24 @@
+BHARATCODE BUILD LEAGUE — DEVPILOT AI
+
+Project name:
+DevPilot AI – Autonomous Software Engineering Agent
+
+Category:
+Coding & Developer Tools
+
+Project summary:
+DevPilot AI is a developer workspace for understanding repository code and investigating software problems. Upload a project ZIP, describe the behavior you expected, find related source files with local search, and review evidence and suggested code changes from an optional configured AI model. Edit and download changed files, inspect simple code checks, and tailor the workspace in Interface Studio. The current MVP uses React, TypeScript, Monaco Editor, and FastAPI. Test execution, GitHub integration, and persistent repository indexing are planned and are not yet implemented.
+
+Repository URL:
+Add the public GitHub repository URL after publishing this project.
+
+Current model integration status:
+BharatCode-specific model API integration is not implemented yet. The optional backend currently supports an OpenAI-compatible provider configuration. Verify the official BharatCode API requirements and integrate them before claiming BharatCode-powered model calls.
+
+Event details copied from the supplied project brief (verify with the organizers):
+- Submission deadline stated: 10 November 2026, 11:59 PM IST.
+- Prize details stated: ₹10,000 first prize; 1,000 free Adaption credits per participant; US$1,000 Adaption credits per winning team member; three Ginhouse event tickets; and consideration as an official BharatCode offering.
+- Submission requirements stated: public GitHub repository URL, project name (2–160 characters), and optional summary (up to 1,000 characters).
+- The supplied brief says a PDF upload was not listed as mandatory.
+
+The project README contains the longer product overview, current feature status, setup instructions, visuals, and submission checklist.
